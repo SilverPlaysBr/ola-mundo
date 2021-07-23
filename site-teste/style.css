@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    background-color:gray;
+    font-size:1.3em;
+}
+
+main{
+    background-color:white;
+    max-width: 800px;
+    min-width:250px;
+    margin:auto;
+    padding:20px;
+}
+
+h2{
+    font-weight: normal;
+}
+
+main p{
+    line-height: 30px;
+}
